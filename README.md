@@ -15,7 +15,14 @@
   Interactive retail analytics solution covering sales, profitability, customers,
   products, stores, returns, targets, and what-if analysis.
 </p>
+## 🔗 Quick Access
 
+| Resource | Description |
+|---|---|
+| 📊 [Power BI Report](RetailPro_PowerBI_Project.pbix) | Complete interactive Power BI report |
+| 📗 [Source Dataset](RetailPro_PowerBI_Project.xlsx) | Synthetic retail dataset used for the project |
+| 📄 [Project Documentation](Documentation/RetailPro_Project_Documentation.pdf) | Detailed technical and business documentation |
+| 🖼️ [Dashboard Screenshots](Screenshots/) | Preview of all 7 Power BI dashboard pages |
 ---
 
 
