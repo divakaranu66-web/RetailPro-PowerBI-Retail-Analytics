@@ -1309,3 +1309,28 @@ RetailPro_PowerBI_Project/
 │
 └── Documentation/
     └── RetailPro_Project_Documentation.pdf
+
+```
+
+## 📊 Dashboard Preview
+
+### Executive Dashboard
+<img src="./Screenshots/Executive_Dashboard.png" alt="Executive Dashboard">
+
+### Sales Analytics
+<img src="./Screenshots/Sales_Analytics.png" alt="Sales Analytics">
+
+### Customer Analytics
+<img src="./Screenshots/Customer_Analytics.png" alt="Customer Analytics">
+
+### Product Analytics
+<img src="./Screenshots/Product_Analytics.png" alt="Product Analytics">
+
+### Store Analytics
+<img src="./Screenshots/Store_Analytics.png" alt="Store Analytics">
+
+### Returns Analytics
+<img src="./Screenshots/Returns_Analytics.png" alt="Returns Analytics">
+
+### Target Analytics
+<img src="./Screenshots/Target_Analytics.png" alt="Target Analytics">
