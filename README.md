@@ -1,5 +1,22 @@
-\# RetailPro — Retail Sales \& Business Analytics Dashboard
+# 🚀 RetailPro — Retail Sales & Business Analytics Dashboard
 
+<p align="center">
+  <strong>End-to-End Power BI Retail Analytics Project</strong>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Power%20BI-Analytics-F2C811?style=for-the-badge&logo=powerbi&logoColor=white">
+  <img src="https://img.shields.io/badge/DAX-Advanced-blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Power%20Query-ETL-green?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Excel-Dataset-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white">
+</p>
+
+<p align="center">
+  Interactive retail analytics solution covering sales, profitability, customers,
+  products, stores, returns, targets, and what-if analysis.
+</p>
+
+---
 
 
 \## 📊 Project Overview
